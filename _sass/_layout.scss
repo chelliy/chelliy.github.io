@@ -1,0 +1,85 @@
+/**
+ * Site header
+ */
+ .wrapper .container {
+    max-width: 80rem;
+}
+
+.site-header {
+    text-align: center;
+}
+
+.navbar {
+    display: block;
+}
+
+.nav-item {
+    display: inline-block;
+    padding: 1rem;
+}
+
+.post-nav {
+    text-align: center;
+    padding: 1rem;
+}
+
+.post-title {
+    display: block;
+}
+
+.post-summary {
+    display: block;
+	font-size: 0.9em;
+}
+
+/**
+ * override column size for mobile
+ */
+@media (max-width: 40.0rem) {
+    .row .column.column-33, .row .column.column-34 {
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+}
+
+/**
+ * Site footer
+ */
+.site-footer {
+    margin: 1rem 0;
+    padding: 1rem 0;
+	font-size: 12px;
+}
+
+.site-footer-home {
+    border-top: 1px solid $grey-color-light;
+    margin: 1rem 0;
+    padding: 1rem 0;
+	font-size: 0.75em;
+}
+
+.site-info {
+    border-top: 1px solid $grey-color-light;
+	border-bottom: 1px solid $grey-color-light;
+    margin: 1rem 0;
+    padding: 1rem 0;
+}
+
+.contact-list,
+.social-media-list {
+    list-style: none;
+    margin-left: 0;
+}
+
+/**
+ * Misc
+ */
+.preview-panel {
+    padding: 1rem;
+    box-sizing: border-box;
+    border: 1px solid $color-initial;
+    
+    &:hover {
+        border: 1px solid $grey-color-light;
+    }
+}
