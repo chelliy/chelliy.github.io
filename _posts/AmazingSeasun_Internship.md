@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Oldest Game"
-summary: "Design Intern"
-date:   2022-09-06 15:39:40
+title:  "Fusion"
+summary: "Game Developer Intern"
+date:   2024-06-20 00:00:00
 preview: /assets/postpreview.png
 ---
 
