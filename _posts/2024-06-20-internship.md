@@ -16,4 +16,4 @@ As a result, I developed an environment generation tool in UE5 based on the Spli
 
 Additionally, I implemented a PCG rule to prevent environment-road intersections by dynamically updating the valid line segments on the Environment Spline and regenerating the environment when intersections occurred. Unfortunately, not all bugs in the road logic were resolved before the end of my internship.
 
-If you want more details,[link](https://github.com/chelliy/Internship_Work_Showcase)
+If you want more details,[Github Repo](https://github.com/chelliy/Internship_Work_Showcase)

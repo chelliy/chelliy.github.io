@@ -6,8 +6,8 @@ permalink: /about/
 
 ![Picture 1](/assets/about1.jpg)
 
-Hi! I'm Qingzhi You, a game developer focused on gameplay engineering and game design. Although my background is more of a programmer, I'm advancing my game design skills.
+Hi! I'm Qingzhi You, a game developer with a focus on gameplay engineering and game design. While my background leans more toward programming, I am actively advancing my skills in game design.
 
-Although I have played many games including most of the games' genres, my current favorite game types are role-playing games and action/fighting games. RPG allows players to experience and enjoy things and stories that they might never have in real life. More importantly, the unique interactions that games have, such as decision influence ending, create a more immersive experience than any other media can have.
+I have played a wide variety of games spanning most genres, and my current favorites are role-playing games (RPGs) and action/fighting games. RPGs allow players to experience and enjoy stories and scenarios that might be impossible in real life. More importantly, the unique interactive elements of games—such as decisions influencing endings—create a level of immersion unmatched by any other medium.
 
-Outside games, I like to read internet novels for interesting stories. I also enjoy exercise such as hitting a gym or swimming, which might be the reason why I like action games. Also, I'm self-learning piano. I never thought to be professional, only for several songs I am fond of.
+Outside of gaming, I enjoy reading internet novels for their intriguing stories. I also like exercising, such as going to the gym or swimming, which might explain my fondness for action games. Additionally, I am teaching myself piano—not to become a professional, but simply to play a few songs I love.
