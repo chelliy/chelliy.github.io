@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "In Progress"
-summary: "In Progress"
-date:   0000-00-00 00:00:00
+title:  "In Progress1"
+summary: "In Progress1"
+date:   0020-01-01 00:00:00
 preview: /assets/postpreview.png
 ---
 
 ![Picture 1](/assets/fullsize.png)
 
-In Progress
+In Progress1
