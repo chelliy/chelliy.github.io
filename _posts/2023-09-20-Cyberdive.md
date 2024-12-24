@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Cyberdive"
-summary: "Cyberdive"
+title:  "Cyberdive(MFA Thesis Project)"
+summary: "Gameplay Engineer"
 date:   2023-09-20 19:00:00
 preview: /assets/postpreview.png
 ---
