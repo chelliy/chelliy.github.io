@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "In Progress1"
-summary: "In Progress1"
-date:   0020-01-01 00:00:00
+title:  "Game Engine Development Milestone"
+summary: "Course Project"
+date:   2024-12-01 00:00:00
 preview: /assets/postpreview.png
 ---
 
