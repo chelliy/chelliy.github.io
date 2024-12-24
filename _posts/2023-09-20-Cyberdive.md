@@ -11,6 +11,6 @@ preview: /assets/postpreview.png
 Cyberdive is a 1-year long thesis project by an IMGD MFA student at USC(the Project is closed after half-year development due to the Director's decision). 
 I worked as gameply engineer, mainly contributed to Player skill implementation and Dialogue system integration.
 
-![Picture 2](/assets/Cyberdive1.jpg) | ![Picture 3](/assets/Cyberdive2.jpg)
+![Picture 2](/assets/Cyberdive1.png) | ![Picture 3](/assets/Cyberdive2.png)
 
 More detail at my [Github Repo](https://github.com/chelliy/Cyberdive)
