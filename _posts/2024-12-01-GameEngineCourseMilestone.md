@@ -3,7 +3,7 @@ layout: post
 title:  "Game Engine Development Milestone"
 summary: "Course Project"
 date:   2024-12-01 00:00:00
-preview: /assets/GameEngineDevelopment1.png
+preview: /assets/GameEngineDevelopment2.png
 ---
 
 ![Picture 1](/assets/GameEngineDevelopment1.png)
