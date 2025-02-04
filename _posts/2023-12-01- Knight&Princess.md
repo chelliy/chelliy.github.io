@@ -3,7 +3,7 @@ layout: post
 title:  "Knight and Princess"
 summary: "Game Developer"
 date:   2023-12-01 00:00:00
-preview: /assets/TheGlitchWitchLogo.png
+preview: /assets/KandP.png
 ---
 
 ![Picture 1](/assets/KandP1.PNG)
