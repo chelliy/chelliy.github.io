@@ -2,7 +2,7 @@
 layout: post
 title:  "Fusion(Amazing Seasun Game)"
 summary: "Game Developer Intern"
-date:   2024-06-20 00:00:00
+date:   2024-08-20 00:00:00
 preview: /assets/internshippreview.PNG
 ---
 
