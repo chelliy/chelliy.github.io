@@ -13,4 +13,4 @@ Potion Problems is MFA/AGP from USC, a 2D online multiplayer social deduction pa
 
 ![Picture 2](/assets/potion_problem3.png)
 
-Currently, as part of the USC Advanced Games Project Potion Problem, I am involved in creating RITE schedules, conducting weekly playtests, analyzing results, and working closely with design, QA, and engineering teams to ensure the best possible player experience.
+Currently, as part of the usability team, I create RITE schedules, conduct weekly playtests, analyze results, identify usability issues, update usability problems to the RITE task sheet, and work closely with design, QA, and engineering teams to ensure the best possible player experience.
