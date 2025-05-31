@@ -6,8 +6,16 @@ date:   2025-02-01 01:00:00
 preview: /assets/410_2.png
 ---
 
-Character Design and Storytelling for Games, AKA Narrative Design Workshop, is an overview of narrative fundamentals for playful experiences and interactive media. A class that covers the core lessons of designing narratives that are meant to be played and interacted with, building out core lessons of storytelling from cinema and other mediums. Featuring guest speakers in the evening lecture section and hands-on writing in smaller weekly lab sessions.
+Character Design and Storytelling for Games (Narrative Design Workshop) provides a concise overview of narrative fundamentals for interactive media and playful experiences. The class explores how to craft stories that players can engage with, drawing on core storytelling principles from cinema and other media. It features evening lectures with guest speakers and weekly lab sessions devoted to hands-on writing.
+
+During the course, I:
+
+Collaborated on several small-team narrative-ideation projects
+
+Created an original IP pitch deck, refining it from concept to presentation
+
+Wrote the opening script for that IP
 
 ![Picture 1](/assets/410_1.png)
 
-In this courses, I have done sevearal small projects about narrative design ideation in small team, created my original IP presentation desk by going general, created the openning script for my IP, and so on. If you interesting in what I have design and write down, you can view them in my [google drive](/https://drive.google.com/drive/folders/18Ha5pLfmXy8_hoF_7TOvO01hOZIJNjf3?usp=drive_link).
+If you’re interested in my work, you can view it on my [Google Drive](https://drive.google.com/drive/folders/18Ha5pLfmXy8_hoF_7TOvO01hOZIJNjf3).
