@@ -2,7 +2,7 @@
 layout: post
 title:  "Potion Problems"
 summary: "User Researcher/Usability"
-date:   2025-02-01 00:00:00
+date:   2025-05-06 00:00:00
 preview: /assets/potion_problem1.png
 ---
 
@@ -13,6 +13,6 @@ Potion Problems is MFA/AGP from USC, a 2D online multiplayer social deduction pa
 
 ![Picture 2](/assets/potion_problem3.png)
 
-Currently, as part of the usability team, I create RITE schedules, conduct weekly playtests, analyze results, identify usability issues, update usability problems to the RITE task sheet, and work closely with design, QA, and engineering teams to ensure the best possible player experience.
+As part of the usability team, I create RITE schedules, conduct weekly playtests, analyze results, identify usability issues, update usability problems to the RITE task sheet, and work closely with design, QA, and engineering teams to ensure the best possible player experience.
 
 [Steam Page] (https://store.steampowered.com/app/3306050/Potion_Problems/)
