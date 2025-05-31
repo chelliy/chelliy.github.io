@@ -2,7 +2,7 @@
 layout: post
 title:  "Narrative Works from Narrative Design Workshop"
 summary: "Game Design - Narrative"
-date:   2025-02-01 00:00:00
+date:   2025-02-01 01:00:00
 preview: /assets/410_2.png
 ---
 
