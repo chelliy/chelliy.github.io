@@ -6,6 +6,8 @@ date:   2023-09-20 19:00:00
 preview: /assets/CyberdiveCover.png
 ---
 
+Sep 2023 - Dec 2023
+
 ![Picture 1](/assets/Cyberdive3.png)
 
 Cyberdive is a 1-year long thesis project by an IMGD MFA student at USC(the Project is closed after half-year development due to the Director's decision). 

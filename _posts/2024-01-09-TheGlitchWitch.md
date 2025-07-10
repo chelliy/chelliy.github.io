@@ -6,6 +6,8 @@ date:   2024-01-10 00:00:00
 preview: /assets/TheGlitchWitchLogo.png
 ---
 
+Jan 2024 - May 2024
+
 ![Picture 1](/assets/glitchwitch3.jpg)
 
 In the first half of 2024, I joined Glitch Witch team as a Gameplay Engineer, where "The Glitch Witch" is an Advanced Games Project at USC, inspired by games like Stardew Valley and wire circuit puzzle game, and developed using Unreal Engine 5.

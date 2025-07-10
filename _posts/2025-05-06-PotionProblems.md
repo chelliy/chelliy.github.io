@@ -5,6 +5,7 @@ summary: "User Researcher/Usability"
 date:   2025-05-06 00:00:00
 preview: /assets/potion_problem1.png
 ---
+Aug 2024 - May 2025
 
 ![Picture 1](/assets/potion_problem2.png)
 

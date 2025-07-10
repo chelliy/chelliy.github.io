@@ -6,6 +6,8 @@ date:   2025-02-01 01:00:00
 preview: /assets/410_2.png
 ---
 
+Jan 2025 - May 2025
+
 Character Design and Storytelling for Games (Narrative Design Workshop) provides a concise overview of narrative fundamentals for interactive media and playful experiences. The class explores how to craft stories that players can engage with, drawing on core storytelling principles from cinema and other media. It features evening lectures with guest speakers and weekly lab sessions devoted to hands-on writing.
 
 During the course, I:

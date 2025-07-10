@@ -6,6 +6,8 @@ date:   2024-12-01 00:00:00
 preview: /assets/GameEngineDevelopment2.png
 ---
 
+Aug 2024 - Dec 2024
+
 ![Picture 1](/assets/GameEngineDevelopment1.png)
 
 The objective of Game Engine Development Course(CSCI522) at USC is to design, develop and extend a 3D Game Engine in native C++. The development environment in

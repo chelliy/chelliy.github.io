@@ -6,6 +6,8 @@ date:   2024-08-20 00:00:00
 preview: /assets/internshippreview.PNG
 ---
 
+Jun 2024 - Aug 2024
+
 ![Picture 1](/assets/internship_showcase1.PNG)
 
 During the summer of 2024, I worked as a Game Developer Intern on the Fusion team at Amazing Seasun Games, which was in its pre-research stage. My role primarily resembled that of a Tool Engineer, focusing on developing a Procedural Content Generation tool in plain Unreal Engine 5, without relying on plugins, for use by level designers. Although UE5 already includes a PCG plugin, the team lead believed exploring and learning the technique from scratch was beneficial.

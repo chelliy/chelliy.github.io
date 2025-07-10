@@ -6,6 +6,8 @@ date:   2023-12-01 00:00:00
 preview: /assets/KandP.PNG
 ---
 
+Jan 2024 - May 2024
+
 ![Picture 1](/assets/KandP1.PNG)
 
 [Trailer](https://www.bilibili.com/video/BV1Qt421j7mq)
