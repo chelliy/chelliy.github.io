@@ -16,7 +16,7 @@ Potion Problems is MFA/AGP from USC, a 2D online multiplayer social deduction pa
 
 As part of the usability team, I create RITE schedules, conduct weekly playtests, analyze results, identify usability issues, update usability problems to the RITE task sheet, and work closely with design, QA, and engineering teams to ensure the best possible player experience.
 
-[Steam Page] (https://store.steampowered.com/app/3306050/Potion_Problems/).
+[Steam Page](https://store.steampowered.com/app/3306050/Potion_Problems/).
 
 
 If you’re interested in my work, you can view it on my [Google Drive](https://drive.google.com/drive/folders/15hxIX-4ank_vyp-b87xd0gfH5ST8XYf5?usp=sharing).
